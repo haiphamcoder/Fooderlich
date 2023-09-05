@@ -6,3 +6,4 @@ export 'package:fooderlich/components/author_card.dart';
 export 'package:fooderlich/components/friend_post_tile.dart';
 export 'package:fooderlich/components/recipe_thumbnail.dart';
 export 'package:fooderlich/components/recipes_grid_view.dart';
+export 'package:fooderlich/components/grocery_tile.dart';
